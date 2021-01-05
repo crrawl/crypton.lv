@@ -1,5 +1,6 @@
 # crypton.lv
-This is a my first design! 2018 year!
+This is a my first design! 2018 year! <br />
+Main page is not done!
 
 # Registration page
-![cryptonlv-signup](https://github.com/yuuhakobe/crypton.lv/blob/main/github-img/cryptonlv-signup.jpg)
+![cryptonlv-reg-reg0.html](https://github.com/yuuhakobe/crypton.lv/blob/old-version/github-img/cryptonlv-reg.jpg)
