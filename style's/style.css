@@ -1,0 +1,60 @@
+body {
+    background-image: url(../media/font.jpg);
+    background-size: cover;
+    font-family: "Nasalization", sans-serif;
+    letter-spacing: 3px
+}
+.header {
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 91px;
+    color: white;
+    font-size: 40pt;
+    font-weight: normal;
+}
+.register {
+    padding-left: 1em;
+    width: 21em;
+    height: 3em;
+    border-radius: 10px 10px 10px 10px;
+    border: unset;
+    outline: none;
+    font-size: 12pt;
+}
+.registers {
+    text-align: center;
+    margin: 4em;
+}
+label {
+    display: block;
+    color: #fff;
+    font-size: 10pt;
+    margin-left: 711px;
+    font-weight: bold;
+    position: relative;
+    top: 1px;
+    text-align: left;
+    padding-top: 25px;
+}
+.block {
+    display: block;
+}
+.icons {
+    padding-top: 20px;
+    padding-left: 0px;
+}
+.icona {
+    padding: 15px;
+    text-emphasis: center;
+    margin: 0 auto;
+}
+/*
+body p {
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: violet;
+}
+*/
