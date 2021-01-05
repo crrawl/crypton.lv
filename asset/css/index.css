@@ -1,0 +1,47 @@
+body {
+    background-color: grey;
+
+    width: 100%;
+    height: 100%;
+}
+a {
+    text-decoration: none;
+}
+.content {
+
+    font-family: "Nasalization", sans-serif;
+    width: 500px;
+    min-height: 700px;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+}
+
+.logotype {
+    margin-bottom: 20px;
+}
+
+.logotype> a {
+    color: white;
+    font-size: 30px;
+
+}
+
+.form__input {
+    margin-top: 20px;
+}
+
+.goto__button {
+    color: white;
+    padding: 20px;
+    background-color: #202124;
+    border-radius: 30px;
+}
+.goto__button:hover {
+    color: gray;
+    transition: .5s;
+}
